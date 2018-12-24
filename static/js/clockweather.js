@@ -1,5 +1,5 @@
-var he_key = "yourkey"
-var city = "苏州"
+var he_key = "23c9f376b0a0440b875e6757397c6860"
+var city = "上海"
 
 $(function() {
     // clock
